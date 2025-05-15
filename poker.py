@@ -18,6 +18,8 @@ DONE 5. graphics
 
 '''
 
+# 5.15.25
+
 # create root window
 root = Tk()
 root.title("TEXAS HOLD 'EM")
